@@ -3,7 +3,7 @@
 require_relative "lib/maven_require/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "maven_require"
+  spec.name          = "maven-require"
   spec.version       = MavenRequire::VERSION
   spec.authors       = ["Patrick Plenefisch"]
   spec.email         = ["simonpatp@gmail.com"]

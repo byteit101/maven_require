@@ -8,7 +8,7 @@ For non-interactive use, we recommend creating a `Jarfile` with `jar-dependencie
 ## Installation
 
 ```ruby
-gem install maven_require
+gem install maven-require
 ```
 
 ## Usage
